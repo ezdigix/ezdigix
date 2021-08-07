@@ -2,7 +2,6 @@
 
 - 🔭 I'm currently an **Engineering Intern** at **Digi-X**.
 - 🌱 I’m currently learning **Vue.js and React Native** for front-end development and **PHP (Laravel)** for back-end development.
-- 👯 I’m open to collaborate on any projects, be it web, game or mobile app development, to increase my development knowledge in those fields.
 - 🥅 2021 Goals: **Code more 👨🏻‍💻, keep learning new things 📚 and stay positive!** 😄
 - ⚡ Fun fact: I love to make music on my computer using **Waveform by Tracktion**. 🎶
 
