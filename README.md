@@ -1,4 +1,4 @@
-# Hello there, I'm **Ezlan** from Malaysia! 👋
+# Hello there, I'm **Ezlan**! 👋
 
 - 🔭 I'm currently an **Engineering Intern** at **Digi-X**.
 - 🌱 I’m currently learning **Vue.js and React Native** for front-end development and **PHP (Laravel)** for back-end development.
